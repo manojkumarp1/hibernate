@@ -24,7 +24,7 @@ public class App
         Transaction transaction=session.getTransaction();
         transaction.begin();
         /*
-         User u = new User(3,"chari","chari@123","Kesava","Chari");
+         User u = new User(3,"manoj","manoj@123","manoj","kumar");
         session.persist(u);
          */
         /*
